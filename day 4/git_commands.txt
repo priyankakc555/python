@@ -1,0 +1,23 @@
+git is a version control system.
+it maintains the code history so that we can go to any version of the code at any required moment.
+git has major two significances:
+- to maintain code versions
+- to collaborate in the team work
+
+repository= it is nothing but a git project folder
+
+- there are two repositories
+- one is the local repo and other is the remote repo
+
+
+# gits commands
+set username and email
+git
+1. git init
+- initializes a repo in local
+
+2. git add .
+- adds all the changes to the git
+
+3. git commit -m ""
+-commit all the codes

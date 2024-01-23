@@ -32,4 +32,3 @@ f = 3.4
 g = "hello"
 h = True
 print(bool(a))  # True
-print(b…
