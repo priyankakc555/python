@@ -20,4 +20,12 @@ git
 - adds all the changes to the git
 
 3. git commit -m ""
--commit all the codes
+-commit all the changes
+
+4. git remote and origin <ssh-link>
+
+5. git remote -version
+= list all the remote names
+
+6. git push -u origin(branch name)
+= push to github
