@@ -5,3 +5,4 @@ print(a-b)
 print(a*b)
 p=print
 # what the hellgit 
+k= "okk"

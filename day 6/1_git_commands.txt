@@ -1,0 +1,22 @@
+1. git status
+=> provides the current status of the repo
+
+2. git clone <project-ssh-link>
+=> download the repo to localdevice 
+
+3. git branch -D <branch_name>
+=> delete the branch
+
+4. git reset
+- umdo the commit
+
+#steps to create a merge conflict
+1. make changes in branch 1 in a particular file
+2. checkout to main 
+merge the branch1
+make changes in the same line of file in main branch
+add and commit in main branch
+checkout to branch1
+make changes in the same line of the branch 
+add and commit in branch 1
+merge main in branch1
