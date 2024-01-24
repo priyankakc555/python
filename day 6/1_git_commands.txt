@@ -12,6 +12,7 @@
 
 #steps to create a merge conflict
 1. make changes in branch 1 in a particular file
+=> add commit in branch1
 2. checkout to main 
 merge the branch1
 make changes in the same line of file in main branch
