@@ -12,7 +12,9 @@ repository= it is nothing but a git project folder
 
 # gits commands
 set username and email
-git
+git config--globalnuser.name"<username>"
+git config--global user.email"<email>"
+
 1. git init
 - initializes a repo in local
 
